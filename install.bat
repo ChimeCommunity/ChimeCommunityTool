@@ -1,1 +1,1 @@
-curl -O https://raw.githubusercontent.com/ChimeCommunity/ChimeCommunityTool/main/test_file.txt
+curl -o https://raw.githubusercontent.com/ChimeCommunity/ChimeCommunityTool/main/test_file.txt
