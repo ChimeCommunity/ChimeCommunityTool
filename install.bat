@@ -1,1 +1,1 @@
-echo No updates available as for now
+tools\\curl.exe -o temp\\install.bat -LJO -k https://raw.githubusercontent.com/ChimeCommunity/ChimeCommunityTool/main/install.bat
